@@ -2,6 +2,7 @@ body {
     background-color:PaleGoldenRod;
     background-image:url(pictures/manhattan-chinatown.jpg);
     background-size:cover;
+    height:100vh;
 }
 h1 {
     text-align:center;
