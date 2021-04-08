@@ -1,0 +1,61 @@
+body {
+    background-color:PaleGoldenRod;
+    background-image:url(pictures/manhattan-chinatown.jpg);
+    background-size:cover;
+}
+h1 {
+    text-align:center;
+    background-color:PaleGoldenRod;
+    margin:auto;
+}
+p {
+    text-align:center;
+    background-color:PaleGoldenRod;
+    margin:auto;
+}
+.center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.left {
+    display:block;
+    margin-left:auto;
+    width: 50%;
+}
+.right {
+    display:block;
+    margin-right: auto;
+    width:50%;
+}
+step1 {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+step2 {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+step3 {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+step4 {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+step5 {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
